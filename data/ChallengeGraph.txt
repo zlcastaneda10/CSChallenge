@@ -1,0 +1,28 @@
+Galerias,Warehouse
+San Cristobal,Intermediate
+Fontibon,Warehouse
+Usaquen,Warehouse
+Chapinero,Provider
+Santa Fe,Warehouse
+Quinta Paredes,Provider
+Bosa,Intermediate
+Galerias,Usaquen,5
+Galerias,Bosa,3
+San Cristobal,Fontibon,9
+San Cristobal,Usaquen,2
+San Cristobal,Bosa,7
+Fontibon,San Cristobal,9
+Usaquen,Galerias,5
+Usaquen,San Cristobal,2
+Usaquen,Quinta Paredes,14
+Chapinero,Quinta Paredes,1
+Chapinero,Bosa,3
+Santa Fe,Quinta Paredes,10
+Santa Fe,Bosa,5
+Quinta Paredes,Chapinero,1
+Quinta Paredes,Santa Fe,10
+Quinta Paredes,Bosa,5
+Quinta Paredes,Usaquen,14
+Bosa,Chapinero,3
+Bosa,Santa Fe,5
+Bosa,Quinta Paredes,5

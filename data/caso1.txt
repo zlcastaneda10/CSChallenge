@@ -1,0 +1,6 @@
+Chapinero,12
+Quinta Paredes,0
+Galerias,3
+Fontibon,3
+Usaquen,3
+Santa Fe,3
